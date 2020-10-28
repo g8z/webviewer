@@ -39,3 +39,4 @@
 2020-10-21 chore: housekeeping
 2020-10-24 fix: patch edge case in config
 2020-10-24 test: add coverage for helper
+2020-10-27 docs: note deployment caveat
