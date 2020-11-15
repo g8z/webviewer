@@ -51,3 +51,4 @@
 2020-11-10 build: adjust tooling scripts
 2020-11-12 chore: housekeeping
 2020-11-13 fix: handle empty input
+2020-11-15 style: format sources
