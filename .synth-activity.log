@@ -58,3 +58,4 @@
 2020-11-23 docs: update README notes
 2020-11-25 docs: clarify setup steps
 2020-11-25 build: adjust tooling scripts
+2020-12-07 fix: patch edge case in config
