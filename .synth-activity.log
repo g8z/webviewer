@@ -80,3 +80,4 @@
 2021-01-06 fix: patch edge case in config
 2021-01-07 chore: sync local changes
 2021-01-10 refactor: extract shared utility
+2021-01-10 chore: tidy project layout
