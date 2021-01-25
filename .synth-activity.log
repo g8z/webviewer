@@ -86,3 +86,4 @@
 2021-01-18 chore: bump internal marker
 2021-01-21 docs: note deployment caveat
 2021-01-23 chore: housekeeping
+2021-01-25 test: add coverage for helper
