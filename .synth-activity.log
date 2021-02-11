@@ -91,3 +91,4 @@
 2021-01-30 build: adjust tooling scripts
 2021-01-31 fix: patch edge case in config
 2021-02-08 chore: sync local changes
+2021-02-11 fix: guard null reference
