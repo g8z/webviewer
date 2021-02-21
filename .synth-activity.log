@@ -94,3 +94,4 @@
 2021-02-11 fix: guard null reference
 2021-02-13 refactor: simplify module wiring
 2021-02-16 chore: bump internal marker
+2021-02-20 fix: patch edge case in config
