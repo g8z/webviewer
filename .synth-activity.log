@@ -109,3 +109,4 @@
 2021-04-14 chore: bump internal marker
 2021-04-15 test: add coverage for helper
 2021-04-17 chore: tidy project layout
+2021-04-18 fix: guard null reference
