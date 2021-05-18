@@ -121,3 +121,4 @@
 2021-05-16 fix: handle empty input
 2021-05-17 docs: update README notes
 2021-05-17 chore: sync local changes
+2021-05-17 fix: patch edge case in config
