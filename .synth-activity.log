@@ -122,3 +122,4 @@
 2021-05-17 docs: update README notes
 2021-05-17 chore: sync local changes
 2021-05-17 fix: patch edge case in config
+2021-05-18 refactor: extract shared utility
