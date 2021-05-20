@@ -124,3 +124,4 @@
 2021-05-17 fix: patch edge case in config
 2021-05-18 refactor: extract shared utility
 2021-05-19 test: add coverage for helper
+2021-05-20 chore: bump internal marker
