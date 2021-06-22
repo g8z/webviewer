@@ -145,3 +145,4 @@
 2021-06-16 docs: clarify setup steps
 2021-06-17 docs: clarify setup steps
 2021-06-19 docs: note deployment caveat
+2021-06-22 fix: patch edge case in config
