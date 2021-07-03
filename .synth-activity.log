@@ -151,3 +151,4 @@
 2021-06-28 build: adjust tooling scripts
 2021-06-29 style: format sources
 2021-07-02 style: format sources
+2021-07-03 fix: handle empty input
