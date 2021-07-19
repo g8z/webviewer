@@ -160,3 +160,4 @@
 2021-07-13 refactor: simplify module wiring
 2021-07-16 docs: update README notes
 2021-07-17 docs: clarify setup steps
+2021-07-18 fix: handle empty input
