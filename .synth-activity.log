@@ -165,3 +165,4 @@
 2021-07-22 chore: sync local changes
 2021-07-25 fix: guard null reference
 2021-07-25 docs: clarify setup steps
+2021-07-25 docs: note deployment caveat
