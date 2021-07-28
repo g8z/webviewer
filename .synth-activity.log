@@ -168,3 +168,4 @@
 2021-07-25 docs: note deployment caveat
 2021-07-26 refactor: simplify module wiring
 2021-07-26 chore: housekeeping
+2021-07-28 fix: guard null reference
