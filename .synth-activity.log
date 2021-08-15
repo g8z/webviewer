@@ -176,3 +176,4 @@
 2021-08-10 fix: patch edge case in config
 2021-08-13 fix: handle empty input
 2021-08-13 build: adjust tooling scripts
+2021-08-15 chore: tidy project layout
