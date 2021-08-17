@@ -177,3 +177,4 @@
 2021-08-13 fix: handle empty input
 2021-08-13 build: adjust tooling scripts
 2021-08-15 chore: tidy project layout
+2021-08-16 refactor: simplify module wiring
