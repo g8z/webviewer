@@ -185,3 +185,4 @@
 2021-08-21 chore: sync local changes
 2021-08-22 docs: update README notes
 2021-08-26 fix: patch edge case in config
+2021-08-26 test: add coverage for helper
