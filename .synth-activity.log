@@ -194,3 +194,4 @@
 2021-09-12 docs: update README notes
 2021-09-12 chore: tidy project layout
 2021-09-14 style: format sources
+2021-09-14 refactor: simplify module wiring
