@@ -196,3 +196,4 @@
 2021-09-14 style: format sources
 2021-09-14 refactor: simplify module wiring
 2021-09-20 docs: clarify setup steps
+2021-09-24 test: add coverage for helper
