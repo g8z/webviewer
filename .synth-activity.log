@@ -198,3 +198,4 @@
 2021-09-20 docs: clarify setup steps
 2021-09-24 test: add coverage for helper
 2021-09-25 docs: update README notes
+2021-09-25 refactor: extract shared utility
