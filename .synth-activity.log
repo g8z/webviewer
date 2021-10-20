@@ -206,3 +206,4 @@
 2021-10-14 refactor: extract shared utility
 2021-10-19 fix: guard null reference
 2021-10-20 chore: housekeeping
+2021-10-20 style: format sources
