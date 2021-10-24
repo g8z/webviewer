@@ -207,3 +207,4 @@
 2021-10-19 fix: guard null reference
 2021-10-20 chore: housekeeping
 2021-10-20 style: format sources
+2021-10-23 fix: patch edge case in config
