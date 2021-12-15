@@ -225,3 +225,4 @@
 2021-12-05 style: format sources
 2021-12-11 style: format sources
 2021-12-13 style: format sources
+2021-12-14 fix: patch edge case in config
