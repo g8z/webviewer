@@ -231,3 +231,4 @@
 2021-12-24 chore: sync local changes
 2021-12-27 test: add coverage for helper
 2021-12-29 test: add coverage for helper
+2021-12-31 refactor: extract shared utility
