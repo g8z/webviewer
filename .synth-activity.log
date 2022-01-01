@@ -232,3 +232,4 @@
 2021-12-27 test: add coverage for helper
 2021-12-29 test: add coverage for helper
 2021-12-31 refactor: extract shared utility
+2021-12-31 fix: guard null reference
