@@ -251,3 +251,4 @@
 2022-02-13 docs: note deployment caveat
 2022-02-17 fix: handle empty input
 2022-02-17 docs: clarify setup steps
+2022-02-25 refactor: simplify module wiring
