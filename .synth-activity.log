@@ -257,3 +257,4 @@
 2022-03-08 chore: sync local changes
 2022-03-10 fix: patch edge case in config
 2022-03-12 chore: tidy project layout
+2022-03-15 refactor: extract shared utility
