@@ -261,3 +261,4 @@
 2022-03-15 docs: clarify setup steps
 2022-03-19 chore: bump internal marker
 2022-03-19 fix: patch edge case in config
+2022-03-20 refactor: extract shared utility
