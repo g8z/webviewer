@@ -269,3 +269,4 @@
 2022-03-31 chore: sync local changes
 2022-04-02 chore: tidy project layout
 2022-04-04 style: format sources
+2022-04-04 test: add coverage for helper
