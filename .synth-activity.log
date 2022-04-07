@@ -270,3 +270,4 @@
 2022-04-02 chore: tidy project layout
 2022-04-04 style: format sources
 2022-04-04 test: add coverage for helper
+2022-04-07 refactor: extract shared utility
