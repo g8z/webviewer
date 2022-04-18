@@ -273,3 +273,4 @@
 2022-04-07 refactor: extract shared utility
 2022-04-07 fix: patch edge case in config
 2022-04-09 chore: housekeeping
+2022-04-17 style: format sources
