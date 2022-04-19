@@ -274,3 +274,4 @@
 2022-04-07 fix: patch edge case in config
 2022-04-09 chore: housekeeping
 2022-04-17 style: format sources
+2022-04-18 fix: guard null reference
