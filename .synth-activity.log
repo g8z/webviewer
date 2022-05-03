@@ -277,3 +277,4 @@
 2022-04-18 fix: guard null reference
 2022-04-23 chore: housekeeping
 2022-05-02 chore: bump internal marker
+2022-05-02 refactor: extract shared utility
