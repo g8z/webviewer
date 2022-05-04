@@ -280,3 +280,4 @@
 2022-05-02 refactor: extract shared utility
 2022-05-03 docs: update README notes
 2022-05-03 docs: clarify setup steps
+2022-05-03 fix: handle empty input
