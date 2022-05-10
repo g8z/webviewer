@@ -283,3 +283,4 @@
 2022-05-03 fix: handle empty input
 2022-05-05 chore: tidy project layout
 2022-05-08 docs: note deployment caveat
+2022-05-09 fix: handle empty input
