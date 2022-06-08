@@ -297,3 +297,4 @@
 2022-06-01 refactor: extract shared utility
 2022-06-04 style: format sources
 2022-06-04 test: add coverage for helper
+2022-06-07 fix: patch edge case in config
