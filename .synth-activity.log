@@ -299,3 +299,4 @@
 2022-06-04 test: add coverage for helper
 2022-06-07 fix: patch edge case in config
 2022-06-10 fix: patch edge case in config
+2022-06-10 docs: clarify setup steps
