@@ -301,3 +301,4 @@
 2022-06-10 fix: patch edge case in config
 2022-06-10 docs: clarify setup steps
 2022-06-12 fix: handle empty input
+2022-06-14 refactor: simplify module wiring
