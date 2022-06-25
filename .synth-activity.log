@@ -302,3 +302,4 @@
 2022-06-10 docs: clarify setup steps
 2022-06-12 fix: handle empty input
 2022-06-14 refactor: simplify module wiring
+2022-06-25 build: adjust tooling scripts
