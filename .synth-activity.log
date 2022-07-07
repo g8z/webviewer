@@ -306,3 +306,4 @@
 2022-07-02 fix: patch edge case in config
 2022-07-05 build: adjust tooling scripts
 2022-07-05 build: adjust tooling scripts
+2022-07-06 test: add coverage for helper
