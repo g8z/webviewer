@@ -312,3 +312,4 @@
 2022-07-19 chore: tidy project layout
 2022-07-21 style: format sources
 2022-07-21 docs: clarify setup steps
+2022-07-23 fix: patch edge case in config
