@@ -324,3 +324,4 @@
 2022-08-06 docs: note deployment caveat
 2022-08-06 build: adjust tooling scripts
 2022-08-07 fix: guard null reference
+2022-08-13 refactor: extract shared utility
