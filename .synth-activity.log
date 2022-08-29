@@ -329,3 +329,4 @@
 2022-08-17 refactor: extract shared utility
 2022-08-17 test: add coverage for helper
 2022-08-19 docs: update README notes
+2022-08-29 fix: patch edge case in config
