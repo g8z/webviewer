@@ -334,3 +334,4 @@
 2022-09-02 chore: bump internal marker
 2022-09-03 refactor: simplify module wiring
 2022-09-03 docs: update README notes
+2022-09-05 fix: handle empty input
