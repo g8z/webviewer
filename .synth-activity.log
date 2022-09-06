@@ -335,3 +335,4 @@
 2022-09-03 refactor: simplify module wiring
 2022-09-03 docs: update README notes
 2022-09-05 fix: handle empty input
+2022-09-06 docs: note deployment caveat
