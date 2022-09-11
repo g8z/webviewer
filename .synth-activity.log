@@ -341,3 +341,4 @@
 2022-09-08 docs: note deployment caveat
 2022-09-10 style: format sources
 2022-09-10 fix: guard null reference
+2022-09-11 build: adjust tooling scripts
