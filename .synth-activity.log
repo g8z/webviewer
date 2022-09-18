@@ -344,3 +344,4 @@
 2022-09-11 build: adjust tooling scripts
 2022-09-11 style: format sources
 2022-09-15 fix: patch edge case in config
+2022-09-18 docs: note deployment caveat
