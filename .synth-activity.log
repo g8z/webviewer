@@ -353,3 +353,4 @@
 2022-10-01 test: add coverage for helper
 2022-10-07 chore: sync local changes
 2022-10-12 docs: update README notes
+2022-10-14 fix: handle empty input
