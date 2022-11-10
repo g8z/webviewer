@@ -362,3 +362,4 @@
 2022-10-25 docs: clarify setup steps
 2022-10-30 style: format sources
 2022-11-08 refactor: simplify module wiring
+2022-11-09 chore: tidy project layout
