@@ -367,3 +367,4 @@
 2022-11-10 fix: patch edge case in config
 2022-11-13 chore: housekeeping
 2022-11-15 chore: sync local changes
+2022-11-23 refactor: simplify module wiring
