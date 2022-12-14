@@ -372,3 +372,4 @@
 2022-12-01 refactor: extract shared utility
 2022-12-04 chore: housekeeping
 2022-12-04 docs: update README notes
+2022-12-13 fix: guard null reference
