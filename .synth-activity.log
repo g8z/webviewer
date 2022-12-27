@@ -382,3 +382,4 @@
 2022-12-20 docs: note deployment caveat
 2022-12-25 chore: tidy project layout
 2022-12-26 docs: note deployment caveat
+2022-12-27 fix: handle empty input
