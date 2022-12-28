@@ -384,3 +384,4 @@
 2022-12-26 docs: note deployment caveat
 2022-12-27 fix: handle empty input
 2022-12-27 chore: bump internal marker
+2022-12-27 refactor: extract shared utility
