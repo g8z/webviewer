@@ -389,3 +389,4 @@
 2022-12-31 test: add coverage for helper
 2022-12-31 chore: sync local changes
 2022-12-31 chore: bump internal marker
+2023-01-04 fix: handle empty input
