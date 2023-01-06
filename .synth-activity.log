@@ -390,3 +390,4 @@
 2022-12-31 chore: sync local changes
 2022-12-31 chore: bump internal marker
 2023-01-04 fix: handle empty input
+2023-01-06 refactor: simplify module wiring
