@@ -395,3 +395,4 @@
 2023-01-15 fix: guard null reference
 2023-01-17 style: format sources
 2023-01-20 refactor: simplify module wiring
+2023-01-22 refactor: extract shared utility
