@@ -404,3 +404,4 @@
 2023-02-04 chore: tidy project layout
 2023-02-06 refactor: extract shared utility
 2023-02-07 fix: handle empty input
+2023-02-08 style: format sources
