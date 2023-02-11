@@ -405,3 +405,4 @@
 2023-02-06 refactor: extract shared utility
 2023-02-07 fix: handle empty input
 2023-02-08 style: format sources
+2023-02-11 test: add coverage for helper
