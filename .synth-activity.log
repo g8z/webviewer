@@ -411,3 +411,4 @@
 2023-02-20 build: adjust tooling scripts
 2023-02-20 chore: tidy project layout
 2023-02-20 test: add coverage for helper
+2023-02-20 fix: guard null reference
