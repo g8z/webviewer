@@ -414,3 +414,4 @@
 2023-02-20 fix: guard null reference
 2023-02-21 chore: sync local changes
 2023-02-22 chore: sync local changes
+2023-02-24 fix: patch edge case in config
