@@ -417,3 +417,4 @@
 2023-02-24 fix: patch edge case in config
 2023-02-25 fix: guard null reference
 2023-02-26 fix: patch edge case in config
+2023-02-27 docs: note deployment caveat
