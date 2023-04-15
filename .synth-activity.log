@@ -431,3 +431,4 @@
 2023-03-26 refactor: simplify module wiring
 2023-04-03 chore: tidy project layout
 2023-04-08 fix: guard null reference
+2023-04-14 refactor: extract shared utility
