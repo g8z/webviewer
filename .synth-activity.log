@@ -444,3 +444,4 @@
 2023-05-15 docs: note deployment caveat
 2023-05-16 fix: guard null reference
 2023-05-17 chore: sync local changes
+2023-05-17 fix: handle empty input
