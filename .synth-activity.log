@@ -442,3 +442,4 @@
 2023-05-10 chore: bump internal marker
 2023-05-12 chore: sync local changes
 2023-05-15 docs: note deployment caveat
+2023-05-16 fix: guard null reference
