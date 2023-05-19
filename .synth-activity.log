@@ -446,3 +446,4 @@
 2023-05-17 chore: sync local changes
 2023-05-17 fix: handle empty input
 2023-05-17 build: adjust tooling scripts
+2023-05-18 refactor: extract shared utility
