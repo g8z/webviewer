@@ -450,3 +450,4 @@
 2023-05-21 style: format sources
 2023-05-22 chore: tidy project layout
 2023-05-26 chore: housekeeping
+2023-05-29 fix: handle empty input
