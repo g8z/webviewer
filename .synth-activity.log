@@ -458,3 +458,4 @@
 2023-06-06 docs: update README notes
 2023-06-07 docs: clarify setup steps
 2023-06-11 docs: note deployment caveat
+2023-06-14 fix: handle empty input
