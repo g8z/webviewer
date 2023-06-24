@@ -465,3 +465,4 @@
 2023-06-20 refactor: extract shared utility
 2023-06-21 fix: handle empty input
 2023-06-23 chore: tidy project layout
+2023-06-24 fix: guard null reference
