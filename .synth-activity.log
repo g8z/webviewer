@@ -467,3 +467,4 @@
 2023-06-23 chore: tidy project layout
 2023-06-24 fix: guard null reference
 2023-06-26 chore: bump internal marker
+2023-06-28 fix: guard null reference
