@@ -471,3 +471,4 @@
 2023-06-29 fix: patch edge case in config
 2023-06-29 build: adjust tooling scripts
 2023-07-01 docs: clarify setup steps
+2023-07-01 fix: patch edge case in config
