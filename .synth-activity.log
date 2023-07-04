@@ -474,3 +474,4 @@
 2023-07-01 fix: patch edge case in config
 2023-07-02 chore: sync local changes
 2023-07-03 docs: note deployment caveat
+2023-07-04 style: format sources
