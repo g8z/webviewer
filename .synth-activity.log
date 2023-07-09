@@ -476,3 +476,4 @@
 2023-07-03 docs: note deployment caveat
 2023-07-04 style: format sources
 2023-07-06 chore: sync local changes
+2023-07-09 refactor: extract shared utility
