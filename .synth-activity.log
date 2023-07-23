@@ -484,3 +484,4 @@
 2023-07-19 build: adjust tooling scripts
 2023-07-20 refactor: extract shared utility
 2023-07-20 docs: update README notes
+2023-07-22 style: format sources
