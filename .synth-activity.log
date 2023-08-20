@@ -500,3 +500,4 @@
 2023-08-12 refactor: simplify module wiring
 2023-08-14 docs: note deployment caveat
 2023-08-17 chore: bump internal marker
+2023-08-20 build: adjust tooling scripts
