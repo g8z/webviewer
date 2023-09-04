@@ -509,3 +509,4 @@
 2023-09-01 fix: handle empty input
 2023-09-02 build: adjust tooling scripts
 2023-09-02 test: add coverage for helper
+2023-09-03 chore: tidy project layout
