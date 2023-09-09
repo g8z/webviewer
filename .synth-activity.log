@@ -511,3 +511,4 @@
 2023-09-02 test: add coverage for helper
 2023-09-03 chore: tidy project layout
 2023-09-09 fix: guard null reference
+2023-09-09 docs: note deployment caveat
