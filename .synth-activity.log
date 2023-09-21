@@ -521,3 +521,4 @@
 2023-09-17 docs: clarify setup steps
 2023-09-20 test: add coverage for helper
 2023-09-20 docs: note deployment caveat
+2023-09-21 refactor: simplify module wiring
