@@ -523,3 +523,4 @@
 2023-09-20 docs: note deployment caveat
 2023-09-21 refactor: simplify module wiring
 2023-09-21 test: add coverage for helper
+2023-09-24 fix: patch edge case in config
