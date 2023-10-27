@@ -534,3 +534,4 @@
 2023-10-21 test: add coverage for helper
 2023-10-22 docs: clarify setup steps
 2023-10-22 fix: handle empty input
+2023-10-27 refactor: simplify module wiring
