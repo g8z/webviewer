@@ -537,3 +537,4 @@
 2023-10-27 refactor: simplify module wiring
 2023-10-28 docs: clarify setup steps
 2023-10-28 fix: patch edge case in config
+2023-11-01 docs: note deployment caveat
