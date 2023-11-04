@@ -541,3 +541,4 @@
 2023-11-02 test: add coverage for helper
 2023-11-02 fix: guard null reference
 2023-11-03 style: format sources
+2023-11-03 docs: clarify setup steps
