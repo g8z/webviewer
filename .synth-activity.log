@@ -556,3 +556,4 @@
 2023-12-24 test: add coverage for helper
 2023-12-25 chore: bump internal marker
 2024-01-02 refactor: simplify module wiring
+2024-01-03 style: format sources
