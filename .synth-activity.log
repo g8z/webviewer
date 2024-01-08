@@ -558,3 +558,4 @@
 2024-01-02 refactor: simplify module wiring
 2024-01-03 style: format sources
 2024-01-08 fix: patch edge case in config
+2024-01-08 refactor: simplify module wiring
