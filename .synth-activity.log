@@ -561,3 +561,4 @@
 2024-01-08 refactor: simplify module wiring
 2024-01-09 fix: guard null reference
 2024-01-12 fix: handle empty input
+2024-01-12 docs: update README notes
