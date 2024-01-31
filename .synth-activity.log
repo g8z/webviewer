@@ -569,3 +569,4 @@
 2024-01-23 style: format sources
 2024-01-26 fix: guard null reference
 2024-01-30 refactor: simplify module wiring
+2024-01-31 chore: bump internal marker
