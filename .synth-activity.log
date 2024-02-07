@@ -574,3 +574,4 @@
 2024-02-01 build: adjust tooling scripts
 2024-02-03 docs: clarify setup steps
 2024-02-04 refactor: simplify module wiring
+2024-02-06 refactor: simplify module wiring
