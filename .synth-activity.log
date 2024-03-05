@@ -583,3 +583,4 @@
 2024-02-27 test: add coverage for helper
 2024-03-04 chore: housekeeping
 2024-03-04 style: format sources
+2024-03-04 fix: handle empty input
