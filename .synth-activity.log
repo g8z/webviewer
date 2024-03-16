@@ -590,3 +590,4 @@
 2024-03-10 build: adjust tooling scripts
 2024-03-10 chore: sync local changes
 2024-03-15 refactor: simplify module wiring
+2024-03-15 test: add coverage for helper
