@@ -602,3 +602,4 @@
 2024-04-08 docs: note deployment caveat
 2024-04-08 build: adjust tooling scripts
 2024-04-09 chore: tidy project layout
+2024-04-09 refactor: extract shared utility
