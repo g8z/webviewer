@@ -610,3 +610,4 @@
 2024-04-15 chore: tidy project layout
 2024-04-16 test: add coverage for helper
 2024-04-19 build: adjust tooling scripts
+2024-04-20 refactor: simplify module wiring
