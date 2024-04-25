@@ -613,3 +613,4 @@
 2024-04-20 refactor: simplify module wiring
 2024-04-21 fix: handle empty input
 2024-04-22 docs: clarify setup steps
+2024-04-24 refactor: extract shared utility
