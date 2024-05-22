@@ -622,3 +622,4 @@
 2024-05-17 refactor: extract shared utility
 2024-05-18 fix: guard null reference
 2024-05-19 chore: housekeeping
+2024-05-22 refactor: extract shared utility
