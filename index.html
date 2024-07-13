@@ -1,0 +1,18 @@
+<script>
+import WebViewer from '@pdftron/webviewer'
+
+const element = document.getElementById('viewer');
+
+WebViewer({
+  path: './files', 
+  initialDoc: '????' 
+}, element).then((instance) => {
+  // Call APIs here
+})
+</script>
+
+<!--
+    TO-DO: implement a simple proof of concept showing how webviewer would present the files in the "files" folder
+-->
+
+<div id="viewer"></div>
