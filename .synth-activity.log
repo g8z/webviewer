@@ -649,3 +649,4 @@
 2024-08-13 style: format sources
 2024-08-13 style: format sources
 2024-08-14 refactor: simplify module wiring
+2024-08-15 refactor: extract shared utility
