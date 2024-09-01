@@ -651,3 +651,4 @@
 2024-08-14 refactor: simplify module wiring
 2024-08-15 refactor: extract shared utility
 2024-08-21 fix: patch edge case in config
+2024-08-31 chore: tidy project layout
