@@ -656,3 +656,4 @@
 2024-09-12 style: format sources
 2024-09-14 chore: sync local changes
 2024-09-19 fix: guard null reference
+2024-09-19 chore: bump internal marker
