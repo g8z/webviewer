@@ -655,3 +655,4 @@
 2024-09-11 chore: housekeeping
 2024-09-12 style: format sources
 2024-09-14 chore: sync local changes
+2024-09-19 fix: guard null reference
