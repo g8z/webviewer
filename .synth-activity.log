@@ -669,3 +669,4 @@
 2024-11-03 style: format sources
 2024-11-09 docs: update README notes
 2024-11-11 fix: guard null reference
+2024-11-12 test: add coverage for helper
