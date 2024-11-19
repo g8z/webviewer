@@ -671,3 +671,4 @@
 2024-11-11 fix: guard null reference
 2024-11-12 test: add coverage for helper
 2024-11-15 refactor: simplify module wiring
+2024-11-19 docs: clarify setup steps
