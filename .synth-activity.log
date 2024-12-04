@@ -678,3 +678,4 @@
 2024-11-27 docs: update README notes
 2024-11-28 chore: bump internal marker
 2024-11-29 style: format sources
+2024-12-04 refactor: extract shared utility
