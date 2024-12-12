@@ -682,3 +682,4 @@
 2024-12-06 fix: handle empty input
 2024-12-07 style: format sources
 2024-12-10 fix: guard null reference
+2024-12-11 build: adjust tooling scripts
