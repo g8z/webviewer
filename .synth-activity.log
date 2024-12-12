@@ -683,3 +683,4 @@
 2024-12-07 style: format sources
 2024-12-10 fix: guard null reference
 2024-12-11 build: adjust tooling scripts
+2024-12-12 chore: sync local changes
