@@ -696,3 +696,4 @@
 2025-01-15 fix: patch edge case in config
 2025-01-17 fix: patch edge case in config
 2025-01-17 chore: housekeeping
+2025-01-18 refactor: simplify module wiring
