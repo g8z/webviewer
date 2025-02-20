@@ -720,3 +720,4 @@
 2025-02-15 style: format sources
 2025-02-16 docs: note deployment caveat
 2025-02-18 style: format sources
+2025-02-19 fix: guard null reference
