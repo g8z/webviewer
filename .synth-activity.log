@@ -722,3 +722,4 @@
 2025-02-18 style: format sources
 2025-02-19 fix: guard null reference
 2025-02-19 chore: tidy project layout
+2025-02-27 fix: patch edge case in config
