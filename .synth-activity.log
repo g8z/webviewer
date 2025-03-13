@@ -728,3 +728,4 @@
 2025-03-03 style: format sources
 2025-03-04 fix: guard null reference
 2025-03-06 fix: handle empty input
+2025-03-12 refactor: extract shared utility
