@@ -730,3 +730,4 @@
 2025-03-06 fix: handle empty input
 2025-03-12 refactor: extract shared utility
 2025-03-13 chore: bump internal marker
+2025-03-13 fix: guard null reference
