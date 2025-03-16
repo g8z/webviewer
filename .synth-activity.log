@@ -732,3 +732,4 @@
 2025-03-13 chore: bump internal marker
 2025-03-13 fix: guard null reference
 2025-03-15 chore: tidy project layout
+2025-03-16 docs: clarify setup steps
