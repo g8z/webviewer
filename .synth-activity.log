@@ -737,3 +737,4 @@
 2025-03-20 chore: bump internal marker
 2025-03-24 chore: tidy project layout
 2025-03-26 fix: handle empty input
+2025-03-27 refactor: extract shared utility
