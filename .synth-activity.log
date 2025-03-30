@@ -739,3 +739,4 @@
 2025-03-26 fix: handle empty input
 2025-03-27 refactor: extract shared utility
 2025-03-29 chore: housekeeping
+2025-03-30 test: add coverage for helper
