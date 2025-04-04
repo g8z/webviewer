@@ -742,3 +742,4 @@
 2025-03-30 test: add coverage for helper
 2025-04-01 fix: patch edge case in config
 2025-04-03 docs: clarify setup steps
+2025-04-04 docs: note deployment caveat
