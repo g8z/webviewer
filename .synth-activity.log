@@ -744,3 +744,4 @@
 2025-04-03 docs: clarify setup steps
 2025-04-04 docs: note deployment caveat
 2025-04-07 refactor: extract shared utility
+2025-04-08 refactor: simplify module wiring
