@@ -746,3 +746,4 @@
 2025-04-07 refactor: extract shared utility
 2025-04-08 refactor: simplify module wiring
 2025-04-17 test: add coverage for helper
+2025-04-18 fix: handle empty input
