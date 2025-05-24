@@ -758,3 +758,4 @@
 2025-05-18 refactor: extract shared utility
 2025-05-19 refactor: simplify module wiring
 2025-05-20 test: add coverage for helper
+2025-05-23 build: adjust tooling scripts
