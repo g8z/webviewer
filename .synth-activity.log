@@ -766,3 +766,4 @@
 2025-06-08 fix: guard null reference
 2025-06-11 chore: bump internal marker
 2025-06-12 test: add coverage for helper
+2025-06-12 fix: patch edge case in config
