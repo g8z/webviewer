@@ -767,3 +767,4 @@
 2025-06-11 chore: bump internal marker
 2025-06-12 test: add coverage for helper
 2025-06-12 fix: patch edge case in config
+2025-06-16 refactor: extract shared utility
