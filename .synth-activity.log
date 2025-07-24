@@ -776,3 +776,4 @@
 2025-07-01 chore: bump internal marker
 2025-07-04 build: adjust tooling scripts
 2025-07-19 chore: sync local changes
+2025-07-24 test: add coverage for helper
