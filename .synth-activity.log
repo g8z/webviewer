@@ -780,3 +780,4 @@
 2025-07-26 refactor: extract shared utility
 2025-07-26 chore: housekeeping
 2025-07-26 test: add coverage for helper
+2025-07-27 refactor: simplify module wiring
