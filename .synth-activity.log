@@ -783,3 +783,4 @@
 2025-07-27 refactor: simplify module wiring
 2025-08-01 fix: handle empty input
 2025-08-02 chore: bump internal marker
+2025-08-03 docs: clarify setup steps
