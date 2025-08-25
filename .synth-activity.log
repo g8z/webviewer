@@ -786,3 +786,4 @@
 2025-08-03 docs: clarify setup steps
 2025-08-17 chore: sync local changes
 2025-08-21 fix: patch edge case in config
+2025-08-24 docs: note deployment caveat
