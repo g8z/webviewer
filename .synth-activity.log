@@ -789,3 +789,4 @@
 2025-08-24 docs: note deployment caveat
 2025-08-25 chore: tidy project layout
 2025-08-25 chore: housekeeping
+2025-08-29 fix: patch edge case in config
