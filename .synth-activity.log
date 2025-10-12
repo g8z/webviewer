@@ -801,3 +801,4 @@
 2025-10-03 chore: tidy project layout
 2025-10-06 fix: guard null reference
 2025-10-08 fix: patch edge case in config
+2025-10-11 chore: bump internal marker
