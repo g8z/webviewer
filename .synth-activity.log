@@ -806,3 +806,4 @@
 2025-10-17 docs: update README notes
 2025-10-20 docs: clarify setup steps
 2025-10-24 test: add coverage for helper
+2025-10-25 fix: handle empty input
