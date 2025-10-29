@@ -807,3 +807,4 @@
 2025-10-20 docs: clarify setup steps
 2025-10-24 test: add coverage for helper
 2025-10-25 fix: handle empty input
+2025-10-28 fix: handle empty input
