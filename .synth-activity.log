@@ -813,3 +813,4 @@
 2025-11-17 chore: tidy project layout
 2025-11-18 fix: patch edge case in config
 2025-11-19 test: add coverage for helper
+2025-11-23 fix: handle empty input
