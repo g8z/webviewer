@@ -819,3 +819,4 @@
 2025-12-08 build: adjust tooling scripts
 2025-12-14 docs: note deployment caveat
 2025-12-14 refactor: simplify module wiring
+2025-12-15 test: add coverage for helper
