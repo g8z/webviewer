@@ -826,3 +826,4 @@
 2026-01-08 docs: clarify setup steps
 2026-01-11 docs: update README notes
 2026-01-11 docs: clarify setup steps
+2026-01-11 fix: handle empty input
