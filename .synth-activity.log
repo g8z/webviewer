@@ -829,3 +829,4 @@
 2026-01-11 fix: handle empty input
 2026-01-13 docs: update README notes
 2026-01-17 docs: update README notes
+2026-01-21 refactor: extract shared utility
