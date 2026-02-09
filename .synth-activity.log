@@ -846,3 +846,4 @@
 2026-02-07 refactor: simplify module wiring
 2026-02-07 chore: tidy project layout
 2026-02-08 docs: clarify setup steps
+2026-02-09 test: add coverage for helper
