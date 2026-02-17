@@ -848,3 +848,4 @@
 2026-02-08 docs: clarify setup steps
 2026-02-09 test: add coverage for helper
 2026-02-11 fix: handle empty input
+2026-02-16 style: format sources
