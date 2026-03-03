@@ -857,3 +857,4 @@
 2026-02-22 docs: note deployment caveat
 2026-02-24 fix: guard null reference
 2026-02-27 docs: update README notes
+2026-03-02 fix: handle empty input
