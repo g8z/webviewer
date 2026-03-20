@@ -861,3 +861,4 @@
 2026-03-05 chore: sync local changes
 2026-03-08 fix: guard null reference
 2026-03-13 test: add coverage for helper
+2026-03-20 test: add coverage for helper
