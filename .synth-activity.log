@@ -869,3 +869,4 @@
 2026-03-31 fix: patch edge case in config
 2026-03-31 test: add coverage for helper
 2026-04-01 fix: handle empty input
+2026-04-02 refactor: extract shared utility
