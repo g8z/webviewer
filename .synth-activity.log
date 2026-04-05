@@ -870,3 +870,4 @@
 2026-03-31 test: add coverage for helper
 2026-04-01 fix: handle empty input
 2026-04-02 refactor: extract shared utility
+2026-04-05 fix: guard null reference
