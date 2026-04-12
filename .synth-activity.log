@@ -872,3 +872,4 @@
 2026-04-02 refactor: extract shared utility
 2026-04-05 fix: guard null reference
 2026-04-12 fix: guard null reference
+2026-04-12 fix: guard null reference
