@@ -876,3 +876,4 @@
 2026-04-14 refactor: extract shared utility
 2026-04-14 docs: note deployment caveat
 2026-04-18 fix: guard null reference
+2026-04-24 refactor: simplify module wiring
