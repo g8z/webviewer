@@ -880,3 +880,4 @@
 2026-04-27 chore: sync local changes
 2026-04-27 refactor: simplify module wiring
 2026-04-27 fix: patch edge case in config
+2026-05-04 fix: patch edge case in config
