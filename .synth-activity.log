@@ -883,3 +883,4 @@
 2026-05-04 fix: patch edge case in config
 2026-05-05 fix: handle empty input
 2026-05-07 fix: guard null reference
+2026-05-11 docs: clarify setup steps
