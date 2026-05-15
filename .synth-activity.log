@@ -884,3 +884,4 @@
 2026-05-05 fix: handle empty input
 2026-05-07 fix: guard null reference
 2026-05-11 docs: clarify setup steps
+2026-05-14 docs: update README notes
