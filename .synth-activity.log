@@ -888,3 +888,4 @@
 2026-05-15 chore: bump internal marker
 2026-05-15 docs: update README notes
 2026-05-19 fix: patch edge case in config
+2026-05-19 chore: tidy project layout
