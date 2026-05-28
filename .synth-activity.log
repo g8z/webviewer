@@ -890,3 +890,4 @@
 2026-05-19 fix: patch edge case in config
 2026-05-19 chore: tidy project layout
 2026-05-27 chore: housekeeping
+2026-05-28 build: adjust tooling scripts
