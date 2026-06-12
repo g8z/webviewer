@@ -895,3 +895,4 @@
 2026-05-30 style: format sources
 2026-06-03 chore: sync local changes
 2026-06-09 refactor: simplify module wiring
+2026-06-12 chore: bump internal marker
